@@ -1,2 +1,10 @@
-from pyfiglet import figlet_format
-print( figlet_format("Coding Professor", font = "big" ) )
+print("__   __        _
+
+\ \ / /_ _ ___| |__
+
+ \ V / _` / __| '_ \
+
+  | | (_| \__ \ | | |
+
+  |_|\__,_|___/_| |_|")
+
